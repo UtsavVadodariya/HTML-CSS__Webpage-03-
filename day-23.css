@@ -1,0 +1,376 @@
+.main{
+    height: 4000px;
+    width: 100%;
+}
+.logo{
+    text-decoration: none;
+    color: black;
+    margin-left: 200px;
+    font-size: 19.2px;
+    font-weight: 1000;
+}
+#nav-main{
+    margin-left: 350px;
+    color: black;
+}
+.nav{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    color: #00000080;
+    padding: 5px 10px;
+}
+.nav-bu button{
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: #6c757d;
+    border: #6c757d;
+    color: white;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+.main header{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    background-color: white;
+    height: 60px;
+    line-height: 60px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.d1{
+    height: 700px;
+    width: 73%;
+    position: absolute;
+    top: 80px;
+    z-index: 1;
+    left: 13.5%;
+
+}
+.d1 img{
+    height: 100%;
+    width: 100%;
+}
+.d2{
+    height: 580px;
+    width: 50%;
+    position: relative;
+    top: 250px;
+    left: 50%;
+    background-color: #CAE8D5;
+}
+.d4{
+    height: 500px;
+    width: 100%;
+}
+
+.d3{
+    height: 250px;
+    border: none;
+    width: 100%;
+}
+.h1{
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 32px;
+}
+.d4-1{
+    display: flex;
+    justify-content: center;
+}
+.d4-2{
+    height: 250px;
+    width: 550px;
+    margin-left: 15px;
+    
+}
+.d4-2 img{
+    height: 100%;
+    width: 270px;
+}
+
+.d4-21{
+    height: 250px;
+    width: 550px;
+    margin-left: 15px;
+    
+}
+.d4-21 img{
+    height: 100%;
+    width: 270px;
+    float: right;
+}
+.d4-3{
+    height: 280px;
+    width: 230px;
+    float: right;
+}
+.d4-3 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.d4-3 span{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    color: #808080;
+    margin: 0px 0px 16px;
+    line-height: 25px;
+}
+
+.d4-31{
+    height: 280px;
+    width: 280px;
+    float: left;
+}
+.d4-31 p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.d4-31 span{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    color: #808080;
+    margin: 0px 0px 16px;
+    line-height: 25px;
+    margin-left: 30px;
+
+}
+.d5-1{
+    height: 730px;
+    width: 72%;
+    margin-left: 14%;
+    background-color: #CAE8D5;
+}
+.d5-img{
+    width: 64%;
+    height: 500px;
+    margin-left: 17.5%;
+    position: absolute;
+    top: 1870px;
+
+}
+.arrow{
+    height: 65px;
+    width: 70px;
+    position: absolute;
+    top: 2244px;
+    left: 1205px;
+}
+.arrow1{
+    height: 65px;
+    width: 70px;
+    position: absolute;
+    top: 2244px;
+    left: 240px;
+}
+.d5-1-p{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+.d5-1-h3{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.d5-1-p1{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #808080;
+    margin-top: -10px;
+}
+.d5-2{
+    height: 9px;
+    width: 9px;
+    border-radius: 50px;
+    margin-left: 6px;
+    background-color: #8da295;
+    
+}
+.d5-2-m{
+    display: flex;
+    justify-content: center;
+}
+.d6{
+    height: 650px;
+    width: 72%;
+    margin-left: 14%;
+    margin-top: 100px;
+}
+.d6 .d6-1{
+    height: 200px;
+    width: 49.5%;
+    display: inline-block;
+}
+.d6-2{
+    height: 80px;
+    width: 80px;
+    border-radius: 150px;
+    background-color: #CAE8D5;
+    display: inline-block;
+
+}
+.d6-2 img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 14px;
+    left: 20px;
+}
+.d6-3{
+    height: 200px;
+    width: 420px;
+    float:right;
+    margin-top: -20px;
+
+}
+.d6-3 h3{
+    font-size: 24px;
+}
+.d6-3 p{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 20px;
+    margin-top: -10px;
+}
+.d7{
+    width: 73%;
+    margin-left: 14%;
+
+}
+.d7 h2{
+    font-size: 32px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+}
+.d7-1{
+    height: 80px;
+    width: 95%;
+    border: 1px solid #808080;
+    font-size: 20px;
+    color: #808080;
+    padding: 0px 20px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+
+}
+.d7-1 a{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 50px;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+}
+.d7-1 p{
+    font-size: 16px;
+    color: #808080;
+    padding: 0px 20px 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+.d7-2{
+    height: 30px;
+    width: 95%;
+    border: 1px solid #808080;
+    font-size: 20px;
+    color: #808080;
+    padding: 0px 20px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+
+}
+.d7-2 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #808080;
+    line-height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    height: 600px;
+    width: 100%;
+    background-color: #333333;
+}
+.d8{
+    height: 500px;
+    width: 72%;
+    position: relative;
+    top: 100px;
+    margin-left: 14%;
+    display: flex;
+}
+.d8-1{
+    height: 400px;
+    width: 33.3%;
+}
+.d8-1 h2{
+    font-size: 16px;
+    color: white;
+}
+.d8-1 p{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #737373;
+    line-height:30px;
+}
+.d8-1 li{
+    list-style: none;
+    color: #737373;
+    margin-top: 15px;
+    font-size: 16px;
+    margin-left: -40px;
+    font-family: 'Quicksand', sans-serif;
+}
+.d8-1 input{
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid #737373;
+    border-radius: 20px 0px 0px 20px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #737373;
+    padding: 3px 12px;
+
+
+}
+::placeholder{
+    font-family: 'Quicksand', sans-serif;
+    padding: 6px 12px;
+
+}
+.d8-1 button{
+    height: 38px;
+    border: 1px solid #CAE8D5;
+    margin-left: -5px;
+    width: 100px;
+    background-color: #CAE8D5;
+    padding: 6px 12px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 0px 20px 20px 0px;
+}
+.i{
+    margin-left: 20px;
+    font-size: 16px;
+    line-height: 30px;
+}
+footer p{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #737373;
+
+}
+footer a{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #b3b8b5;
+    text-decoration: none;
+
+}
